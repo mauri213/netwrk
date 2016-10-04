@@ -1,0 +1,55 @@
+h2.twu {
+	background-image: linear-gradient(to bottom, #18e8ee, #18e8ee);
+}
+.weg {
+	background-image: linear-gradient(to bottom, #18e8ee, #fff);
+}
+#nuevo {
+	width: 38px;
+	height: 30px;
+	background-color: #00ffab;
+	color: #fff;
+}
+
+#linea {
+	width: 55px;
+	height: 30px;
+	background-color: #000;
+	color: #fff;
+}
+
+#dld {
+	width: 70px;
+	height: 30px;
+	background-color: #ff7400;
+	color: #fff;
+}
+
+#oyot, #sche {
+	text-decoration: underline;
+}
+
+.tocar {
+	background-color: #009CBA;
+	color: #fff;
+	display: inline-block;
+	min-width: 55px;
+	height: 55px;
+	text-decoration: none;
+	padding: 20px;
+	float: right;
+}
+
+#sumir {
+	background-color: #009CBA;
+	color: #fff;
+	display: inline-block;
+	min-width: 40px;
+	height: 35px;
+	text-decoration: none;
+	padding: 20px;
+	float: right;
+}
+footer {
+	background-image: url(file:///Users/mauri213/Desktop/Projects/netwrk/netwrk-master/assets/images/bg.png);
+}

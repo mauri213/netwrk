@@ -1,0 +1,22 @@
+#cwte {
+	background-image: linear-gradient(to bottom, #18e8ee, #18e8ee);
+}
+
+#wam {
+	background-image: linear-gradient(to bottom, #18e8ee, #fff);
+}
+
+.guas {
+		background-color: #009CBA;
+	color: #fff;
+	display: inline-block;
+	min-width: 55px;
+	height: 55px;
+	text-decoration: none;
+	padding: 20px;
+	float: right;
+}
+
+footer {
+	background-image: url(file:///Users/mauri213/Desktop/Projects/netwrk/netwrk-master/assets/images/bg.png);
+}

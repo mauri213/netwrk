@@ -1,0 +1,116 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+        }
+
+.cf:after {
+    content: "";
+    display: block;
+    clear: both;
+        }
+/* mobile */
+
+/* Header */
+@font-face {
+	src: url(https://github.com/TIY-Columbia-Front-End-Engineering/netwrk/blob/master/assets/fonts/montserrat/Montserrat-Bold.ttf);
+}
+
+header {
+	background-color: black;
+	min-width: 275px;
+}
+
+header img {
+	max-width: 30px;
+	height: 30px;
+	display: inline-block;
+	margin-top: 15px;
+	margin-right: 120px;
+	margin-left: 120px;
+}
+
+header a {
+	color: #fff;
+	text-decoration: none;
+	margin-right: 54px;
+	margin-left: 54px;
+}
+
+header ul {
+	margin-right: 42px;
+	margin-bottom: 30px;
+} 
+
+li {
+	list-style-type: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+
+header, footer {
+	min-width: 285px;
+}
+/* Header */
+
+/* Main */
+h1 {
+	background-image: linear-gradient(to bottom, #18e8ee, #18e8ee);
+	text-align: center;
+}
+div a {
+	background-color: #009CBA;
+	color: #fff;
+	display: inline-block;
+	min-width: 55px;
+	height: 55px;
+	text-decoration: none;
+	padding: 20px;
+	float: right;
+}
+
+
+h3 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	background-image: url(https://github.com/TIY-Columbia-Front-End-Engineering/netwrk/blob/master/assets/images/network.svg);
+}
+/* Main */
+
+}
+div.wlabc {
+	text-align: center;
+}
+div.hwn {
+	background-image: linear-gradient(to bottom, #18e8ee, #fff);
+	color: #fff;
+}
+p {
+	text-align: center;
+}
+/* Footer */
+footer {
+	background-image: url(https://github.com/TIY-Columbia-Front-End-Engineering/netwrk/blob/master/assets/images/network.svg);
+}
+
+footer a {
+	color: #000;
+	text-decoration: none;
+	margin-right: 42px;
+	margin-left: 42px;
+}
+
+footer img {
+	max-width: 30px;
+	height: 30px;
+	display: inline-block;
+	margin-top: 30px;
+	margin-right: 58px;
+	margin-bottom: 30px;
+	margin-left: 58px;
+}
+/* Footer */
+
+/* mobile */

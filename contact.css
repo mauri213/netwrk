@@ -1,0 +1,28 @@
+h3 p {
+	text-align: center;
+}
+
+ul {
+	text-align: center;
+	padding-right: 30px;
+}
+
+#gd {
+	text-decoration: underline;
+}
+
+#cherry {
+	text-decoration: underline;
+}
+
+.git {
+	background-image: linear-gradient(to bottom, #18e8ee, #18e8ee);
+}
+
+p.ne {
+	background-image: linear-gradient(to bottom, #18e8ee, #fff);
+}
+
+footer {
+	background-image: url(file:///Users/mauri213/Desktop/Projects/netwrk/netwrk-master/assets/images/bg.png);
+}
